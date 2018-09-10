@@ -1,9 +1,10 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/samgrande/manifest-1/dot-p/About.png" > 
 </p>
-
- Dot OS 3.x - Android Pie
- ==========
+<p >
+<img src="https://raw.githubusercontent.com/samgrande/manifest-1/dot-p/Untitled-3.png" > 
+</p>
+ 
  Credits:
  =======
  * [**LineageOS**](https://github.com/LineageOS)
