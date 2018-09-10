@@ -56,7 +56,7 @@ From root directory of Project, perform following commands in terminal
 
 
 <p align="center">
-<img src="https://github.com/DotOS/manifest/blob/dot-n/dotlogo.png" > 
+<img src="https://raw.githubusercontent.com/samgrande/manifest-1/dot-p/Untitled-4.png" > 
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------
