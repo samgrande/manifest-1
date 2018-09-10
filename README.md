@@ -54,11 +54,9 @@ From root directory of Project, perform following commands in terminal
 	brunch <codename>
 ```
 
---------------------------------------------------------------------------------------------------------------------------
 
 For maintainership & to submit patches refer [**HERE**](https://github.com/DotOS/android_vendor_dot/blob/dot-o/README.md)
 
---------------------------------------------------------------------------------------------------------------------------
 
 
 <p align="center">
