@@ -54,16 +54,16 @@ From root directory of Project, perform following commands in terminal
 	brunch <codename>
 ```
 
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/samgrande/manifest-1/dot-p/Untitled-4.png" > 
-</p>
-
 --------------------------------------------------------------------------------------------------------------------------
 
 For maintainership & to submit patches refer [**HERE**](https://github.com/DotOS/android_vendor_dot/blob/dot-o/README.md)
 
 --------------------------------------------------------------------------------------------------------------------------
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/samgrande/manifest-1/dot-p/Untitled-4.png" > 
+</p>
 
 
 
