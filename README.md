@@ -2,7 +2,6 @@
 <img src="https://raw.githubusercontent.com/samgrande/manifest-1/dot-p/About.png" > 
 </p>
 
---------------------------------------------------------------
  Dot OS 3.x - Android Pie
  ==========
  Credits:
